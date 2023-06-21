@@ -18,7 +18,7 @@
     "element-ui": "^2.4.11",
     "md5": "^2.2.1",
     "node-sass": "^4.12.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "sass-loader": "^8.0.0"
   },
   "devDependencies": {
